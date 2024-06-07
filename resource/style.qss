@@ -1,0 +1,110 @@
+QToolButton
+{
+	border:none
+}
+
+ QToolButton:hover
+ {
+	
+	background-color: rgb(202, 202, 202);
+}
+
+  QToolButton:pressed
+ {
+	background-color: rgb(184, 184, 184);
+}
+
+  QPushButton:hover
+ {
+	border: 1px groove rgb(0, 120, 215);
+	background-color: rgb(229, 241, 251);
+}
+
+  QPushButton:pressed
+ {
+	border: 1px groove rgb(0, 84, 153);
+	background-color: rgb(204, 228, 247);
+}
+
+/*QScrollBar:horizontal { 
+    max-height: 9px;
+    background: transparent;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+QScrollBar::handle:horizontal {
+    height: 9px;
+    min-width: 20px;
+    background: rgb(190, 190, 190);
+}
+QScrollBar::handle:horizontal:hover {
+    background: rgb(170, 170, 170);
+}
+
+QScrollBar::sub-line:horizontal {
+    height: 9px;
+    width: 9px;
+    background: rgb(220, 220, 220);
+    border-image: url(:/CalcSetting/ArrowLeft);
+    subcontrol-position: left;
+}
+QScrollBar::add-line:horizontal {
+    height: 9px;
+    width: 9px;
+    background: rgb(220, 220, 220);
+    border-image: url(:/CalcSetting/ArrowRight);
+    subcontrol-position: right;
+}
+QScrollBar::sub-line:horizontal:hover {
+    background: rgb(190, 190, 190);
+    border-image: url(:/CalcSetting/ArrowLeftHover);
+}
+QScrollBar::add-line:horizontal:hover {
+    background: rgb(190, 190, 190);
+    border-image: url(:/CalcSetting/ArrowRightHover);
+}
+QScrollBar::add-page:horizontal,QScrollBar::sub-page:horizontal {
+    background: rgb(220, 220, 220);
+}
+
+QScrollBar:vertical {
+    max-width: 9px;
+    background: transparent;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+QScrollBar::handle:vertical {
+    width: 9px;
+    min-height: 20px;
+    background: rgb(190, 190, 190);
+} 
+QScrollBar::handle:vertical:hover {
+    background: rgb(170, 170, 170);
+} 
+
+QScrollBar::sub-line:vertical {
+    height: 9px;
+    width: 9px;
+    background: rgb(220, 220, 220);
+    border-image: url(:/CalcSetting/ArrowTop);
+    subcontrol-position: top;
+} 
+QScrollBar::add-line:vertical {
+    height: 9px;
+    width: 9px;
+    background: rgb(220, 220, 220);
+    border-image: url(:/CalcSetting/ArrowBottom);
+    subcontrol-position: bottom;
+} 
+QScrollBar::sub-line:vertical:hover {
+    background: rgb(190, 190, 190);
+    border-image: url(:/CalcSetting/ArrowTopHover);
+}
+QScrollBar::add-line:vertical:hover {
+    background: rgb(190, 190, 190);
+    border-image: url(:/CalcSetting/ArrowBottomHover);
+}
+QScrollBar::add-page:vertical,QScrollBar::sub-page:vertical {
+    background: rgb(220, 220, 220);
+}
+*/

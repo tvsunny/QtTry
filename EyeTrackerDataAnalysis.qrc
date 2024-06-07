@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/style.qss</file>
+        <file>resource/close.png</file>
+        <file>resource/open.png</file>
+        <file>resource/startBackground.png</file>
+        <file>resource/App_Icon.ico</file>
+    </qresource>
+</RCC>
